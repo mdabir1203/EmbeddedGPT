@@ -10,7 +10,7 @@ Think of the last time you felt stuck, wrestling with stubborn firmware issues o
 ## The Magic Behind EmbeddedGPT
 Dive into the heart of EmbeddedGPT and you'll find a symphony of technologies—GPT-4, DALL-E-3, and a cutting-edge image analysis model—all harmonized to understand and assist you like never before. Supported by the vast universe of internet search, EmbeddedGPT isn't just a system; it's your personal genius, ready to enlighten and guide your every step.
 
-![image](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/25b38856-aa29-41a4-9cf6-3a6c1ee20a3c)
+: **DM ME **
 
 ## Requirements 
 
