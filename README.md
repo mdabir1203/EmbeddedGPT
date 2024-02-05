@@ -5,7 +5,7 @@
 Imagine a moment when technology leaps forward, opening doors you never knew existed. That moment arrived at the OpenAI Dev Day. The unveiling of customizable ChatGPT versions isn't just an advancement; it's a revolution, especially for those with a passion for Robotics and Embedded Systems. This breakthrough isn't just about technology; it's about unleashing your potential to innovate and create like never before.
 
 ## Your Trusted Companion in Troubleshooting
-EmbeddedGPT transforms challenging moments with firmware and hardware into quantifiable success. It's not just a tool but a partner, reducing troubleshooting time by up to 50%, enhancing project success rates by 40%, and ensuring security compliance. EmbeddedGPT is your gateway to a vast network of resources and collective expertise, designed to streamline your projects and elevate your engineering solutions.
+EmbeddedGPT transforms challenging moments with firmware and hardware into quantifiable success. It's not just a tool but a partner, **reducing troubleshooting time by up to 50%**, enhancing project **success rates by 40%**, and ensuring **security compliance**. EmbeddedGPT is your gateway to a vast network of resources and collective expertise, designed to streamline your projects and elevate your engineering solutions.
 
 ## The Magic Behind EmbeddedGPT
 Dive into the heart of EmbeddedGPT and you'll find a symphony of technologies—GPT-4, DALL-E-3, and a cutting-edge image analysis model—all harmonized to understand and assist you like never before. Supported by the vast universe of internet search, EmbeddedGPT isn't just a system; it's your personal genius, ready to enlighten and guide your every step.
