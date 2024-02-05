@@ -12,6 +12,11 @@ Dive into the heart of EmbeddedGPT and you'll find a symphony of technologies—
 
 ![image](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/25b38856-aa29-41a4-9cf6-3a6c1ee20a3c)
 
+## Requirements 
+
+- Internet connection
+- GPT-4 Subscription
+- A Mobile Phone to take pictures
 
 ## Start Your Journey with EmbeddedGPT
 1. **Begin with a Click**: Embark on an exciting journey by clicking [this link](#).
@@ -25,6 +30,6 @@ Prepare to be amazed by our interactive GIF demo. It's not just a demonstration;
 
 
 ## Be Part of Our Story
-Your journey, your insights, and your feedback are the lifeblood of innovation. Share your EmbeddedGPT experience in the comments, spark a conversation, or suggest how we can soar even higher together. If your heart beats for collaborative creativity, let's connect on [LinkedIn](#) and craft the future side by side.
+Your journey, your insights, and your feedback are the lifeblood of innovation. Share your EmbeddedGPT experience, spark a conversation, or suggest how we can soar even higher together. If your heart beats for collaborative creativity, let's connect on [LinkedIn](#) and craft the future side by side.
 
-With EmbeddedGPT, you're not just solving problems; you're embarking on an adventure of discovery, security, and collaboration. Welcome to a world where every challenge is an opportunity waiting to unfold.
+With **EmbeddedGPT**, you're not just solving problems; you're embarking on an adventure of **discovery**, **security**, and **collaboration**. Welcome to a world where every challenge is an opportunity waiting to unfold.
