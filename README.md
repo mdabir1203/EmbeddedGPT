@@ -2,7 +2,7 @@
 ![image](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/a79205dd-3bad-4e60-ad63-f79d2a29ed92)
 
 ## A New Dawn at OpenAI Dev Day
-Imagine a moment when technology leaps forward, opening doors you never knew existed. That moment arrived at the recent OpenAI Dev Day. The unveiling of customizable ChatGPT versions isn't just an advancement; it's a revolution, especially for those with a passion for Robotics and Embedded Systems. This breakthrough isn't just about technology; it's about unleashing your potential to innovate and create like never before.
+Imagine a moment when technology leaps forward, opening doors you never knew existed. That moment arrived at the OpenAI Dev Day. The unveiling of customizable ChatGPT versions isn't just an advancement; it's a revolution, especially for those with a passion for Robotics and Embedded Systems. This breakthrough isn't just about technology; it's about unleashing your potential to innovate and create like never before.
 
 ## Your Trusted Companion in Troubleshooting
 Think of the last time you felt stuck, wrestling with stubborn firmware issues or a piece of hardware that seemed like a puzzle with missing pieces. Now, imagine having a steadfast ally by your side. EmbeddedGPT is more than a tool; it's your companion in these moments, offering not just solutions but a pathway to a world brimming with resources and collaborative wisdom. It's here to lift the weight off your shoulders, ensuring your projects are not only successful but also secure.
