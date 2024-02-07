@@ -29,6 +29,11 @@ Prepare to be amazed by our interactive GIF demo. It's not just a demonstration;
 ![1 SRKodnL30Pk5nqRYFYvGww](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/e5635336-be40-4494-8a97-00f9a6f595b0)
 
 
+## Resources Used: 
+- Google Search (Embedded systems datasheet)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [Arduino](https://www.arduino.cc/) 
+
 ## Be Part of Our Story
 Your journey, your insights, and your feedback are the lifeblood of innovation. Share your EmbeddedGPT experience, spark a conversation, or suggest how we can soar even higher together. If your heart beats for collaborative creativity, let's connect on [LinkedIn](#) and craft the future side by side.
 
