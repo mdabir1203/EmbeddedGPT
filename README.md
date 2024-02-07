@@ -1,5 +1,5 @@
 # EmbeddedGPT: Transforming Challenges into Innovations
-![image](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/a79205dd-3bad-4e60-ad63-f79d2a29ed92)
+![Created by : Dall-e-3](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/a79205dd-3bad-4e60-ad63-f79d2a29ed92)
 
 ## A New Dawn at OpenAI Dev Day
 Imagine a moment when technology leaps forward, opening doors you never knew existed. That moment arrived at the OpenAI Dev Day. The unveiling of customizable ChatGPT versions isn't just an advancement; it's a revolution, especially for those with a passion for Robotics and Embedded Systems. This breakthrough isn't just about technology; it's about unleashing your potential to innovate and create like never before.
