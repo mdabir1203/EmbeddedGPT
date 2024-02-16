@@ -26,7 +26,6 @@ Dive into the heart of EmbeddedGPT and you'll find a symphony of technologies—
 ## Witness the Wonder of EmbeddedGPT
 Prepare to be amazed by our interactive GIF demo. It's not just a demonstration; it's a window into a future where your challenges morph into opportunities for growth, learning, and discovery.
 
-![1 SRKodnL30Pk5nqRYFYvGww](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/e5635336-be40-4494-8a97-00f9a6f595b0)
 
 
 ## Resources Used: 
