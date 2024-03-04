@@ -18,14 +18,18 @@ Dive into the heart of EmbeddedGPT and you'll find a symphony of technologies—
 - GPT-4 Subscription
 - A Mobile Phone to take pictures
 
+
 ## Start Your Journey with EmbeddedGPT
-1. **Begin with a Click**: Embark on an exciting journey by clicking [this link](#).
+1. **Begin with a Click**: Embark on an exciting journey by clicking [this link](https://chat.openai.com/g/g-M5UY1ByFj-embeddedgpt))
+).
 2. **Introduce Your World**: Share the essence of your Embedded System Hardware Model with the platform.
 3. **Unleash Your Curiosity**: Ask your questions and feel the thrill as EmbeddedGPT unravels answers that are insightful, precise, and tailored just for you.
 
 ## Witness the Wonder of EmbeddedGPT
 Prepare to be amazed by our interactive GIF demo. It's not just a demonstration; it's a window into a future where your challenges morph into opportunities for growth, learning, and discovery.
 
+### Demo 
+![Uploading image.png…]()
 
 
 ## Resources Used: 
