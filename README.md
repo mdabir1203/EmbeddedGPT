@@ -20,7 +20,7 @@ Dive into the heart of EmbeddedGPT and you'll find a symphony of technologies—
 
 
 ## Start Your Journey with EmbeddedGPT
-1. **Begin with a Click**: Embark on an exciting journey by clicking [this link](https://chat.openai.com/g/g-M5UY1ByFj-embeddedgpt))
+1. **Begin with a Click**: Embark on an exciting journey by clicking [this link](https://chat.openai.com/g/g-M5UY1ByFj-embeddedgpt)
 ).
 2. **Introduce Your World**: Share the essence of your Embedded System Hardware Model with the platform.
 3. **Unleash Your Curiosity**: Ask your questions and feel the thrill as EmbeddedGPT unravels answers that are insightful, precise, and tailored just for you.
