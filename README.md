@@ -29,7 +29,7 @@ Dive into the heart of EmbeddedGPT and you'll find a symphony of technologies—
 Prepare to be amazed by our interactive GIF demo. It's not just a demonstration; it's a window into a future where your challenges morph into opportunities for growth, learning, and discovery.
 
 ### Demo 
-![Uploading image.png…]()
+![s](https://github.com/mdabir1203/EmbeddedGPT/assets/66947064/e66efc40-6d78-4870-8cb7-9a6a402032f8)
 
 
 ## Resources Used: 
