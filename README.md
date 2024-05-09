@@ -41,3 +41,15 @@ Prepare to be amazed by our interactive GIF demo. It's not just a demonstration;
 Your journey, your insights, and your feedback are the lifeblood of innovation. Share your EmbeddedGPT experience, spark a conversation, or suggest how we can soar even higher together. If your heart beats for collaborative creativity, let's connect on [LinkedIn](#) and craft the future side by side.
 
 With **EmbeddedGPT**, you're not just solving problems; you're embarking on an adventure of **discovery**, **security**, and **collaboration**. Welcome to a world where every challenge is an opportunity waiting to unfold.
+
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
